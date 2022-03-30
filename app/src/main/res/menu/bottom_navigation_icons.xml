@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_business_center_black_24dp"
+        app:showAsAction="ifRoom"
+        >
+    </item>
+    <item
+        android:id="@+id/nav_catalog"
+        android:icon="@drawable/ic_youtube_searched_for_black_24dp"
+        app:showAsAction="ifRoom"
+       >
+    </item>
+    <item
+        android:id="@+id/nav_camera"
+        android:icon="@drawable/ic_settings_input_antenna_black_24dp"
+        app:showAsAction="ifRoom"
+       >
+    </item>
+    <item
+        android:id="@+id/nav_cost"
+        android:icon="@drawable/ic_settings_black_24dp"
+        app:showAsAction="ifRoom"
+      >
+    </item>
+    <item
+        android:id="@+id/nav_person"
+        android:icon="@drawable/peson"
+        app:showAsAction="ifRoom"
+        >
+    </item>
+</menu>
